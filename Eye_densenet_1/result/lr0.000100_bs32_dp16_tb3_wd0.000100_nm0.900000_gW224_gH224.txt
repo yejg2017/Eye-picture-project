@@ -1,0 +1,2 @@
+Step 0, train loss = 0.85, train accuracy = 31.25%
+*** Step 0, val loss = 1.03, val accuracy = 28.12% ***

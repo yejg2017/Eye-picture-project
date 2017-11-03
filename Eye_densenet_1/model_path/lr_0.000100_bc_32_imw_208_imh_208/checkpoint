@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ye/user/yejg/project/Eye_densenet_1/model_path/lr_0.000100_bc_32_imw_208_imh_208/model.ckpt-0"
+all_model_checkpoint_paths: "/home/ye/user/yejg/project/Eye_densenet_1/model_path/lr_0.000100_bc_32_imw_208_imh_208/model.ckpt-0"
